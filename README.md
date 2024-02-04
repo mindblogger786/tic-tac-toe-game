@@ -1,6 +1,9 @@
 # Tic Tac Toe Game
 A simple web-based Tic Tac Toe game with player vs. player and player vs. AI modes.
 
+## Table of Contents
+- [Features].(#features)
+
 ## Features
 - Player vs. Player mode.
 - Player vs. AI mode with a smart AI opponent using the minimax algorithm.
