@@ -3,10 +3,10 @@ A simple web-based Tic Tac Toe game with player vs. player and player vs. AI mod
 
 ## Table of Contents
 - [Features](#features)
-- [Technologies Used](#technologies used)
-- [Getting Started](#getting_started)
-- [How to Play](#how.to.play)
-- [AI Opponent](#aiopponent)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [How to Play](#how-to-play)
+- [AI Opponent](#ai-opponent)
 - [Contributing](#contributing)
 - [License](#license)
 
